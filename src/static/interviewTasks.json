@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "isCompleted": false,
+    "point": 1,
+    "text": "Frontend library should be React.js"
+  },
+  {
+    "id": 2,
+    "isCompleted": false,
+    "point": 1,
+    "text": "Global state management (the choice is up to the interviewee)"
+  },
+  {
+    "id": 3,
+    "isCompleted": false,
+    "point": 1,
+    "text": "Routing (user should see relevant page's route in browser's address bar)"
+  },
+  {
+    "id": 4,
+    "isCompleted": false,
+    "point": 1,
+    "text": "Login page (can be dummy, no need to authentication)"
+  },
+  { "id": 5, "isCompleted": false, "point": 1, "text": "Navigation bar" },
+  {
+    "id": 6,
+    "isCompleted": false,
+    "point": 1,
+    "text": "A form page (whether using form library or not up to interviewee) with simple validations (submitting wrong input should inform the user)"
+  },
+  {
+    "id": 7,
+    "isCompleted": false,
+    "point": 1,
+    "text": "For dummy routes/pages, content can be filled with lorem ipsum (https://lipsum.com/)"
+  },
+  {
+    "id": 8,
+    "isCompleted": false,
+    "point": 1,
+    "text": "AJAX requests (backend or API is not necessary, even simulating data gathering with mocks is fine)"
+  },
+  {
+    "id": 9,
+    "isCompleted": false,
+    "point": 1,
+    "text": "Share project on any Public Source Control Provider (Gitlab, Github, Bitbucket)"
+  },
+  {
+    "id": 10,
+    "isCompleted": false,
+    "point": 1,
+    "text": "Name your app and add a small description about what's the purpose of the app"
+  },
+  { "id": 11, "isCompleted": false, "point": 1, "text": "Typescript usage" },
+  { "id": 12, "isCompleted": false, "point": 1, "text": "React hook usage" },
+  {
+    "id": 13,
+    "isCompleted": false,
+    "point": 1,
+    "text": "Any other API methods of React that's not commonly used in general (e.g: refs, memo, Context)"
+  },
+  {
+    "id": 14,
+    "isCompleted": false,
+    "point": 1,
+    "text": "ES6+ Javascript usage as much as possible"
+  },
+  {
+    "id": 15,
+    "isCompleted": false,
+    "point": 1,
+    "text": "Any choice of styling (UI kits, old school CSS, CSS in JS, etc.)"
+  },
+  {
+    "id": 16,
+    "isCompleted": false,
+    "point": 1,
+    "text": "Deploying publicly your code to somewhere (Netlify, Github pages, Heroku) and sharing link with us"
+  },
+  {
+    "id": 17,
+    "isCompleted": false,
+    "point": 1,
+    "text": "Immutable data usage over mutable types"
+  }
+]

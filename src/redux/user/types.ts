@@ -1,0 +1,2 @@
+export const UPDATE_USER_POINT = 'UPDATE_USER_POINT';
+export type UPDATE_USER_POINT = typeof UPDATE_USER_POINT;

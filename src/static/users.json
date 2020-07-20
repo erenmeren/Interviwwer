@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Name 1",
+    "lastname": "Surname 1",
+    "point": 0.0,
+    "complatedTaskIds": []
+  },
+  {
+    "id": 2,
+    "name": "Name 2",
+    "lastname": "Surname 2",
+    "point": 0.0,
+    "complatedTaskIds": []
+  },
+  {
+    "id": 3,
+    "name": "Name 3",
+    "lastname": "Surname 3",
+    "point": 0.0,
+    "complatedTaskIds": []
+  },
+  {
+    "id": 4,
+    "name": "Name 4",
+    "lastname": "Surname 4",
+    "point": 0.0,
+    "complatedTaskIds": []
+  },
+  {
+    "id": 5,
+    "name": "Name 5",
+    "lastname": "Surname 5",
+    "point": 0.0,
+    "complatedTaskIds": []
+  },
+  {
+    "id": 6,
+    "name": "Name 6",
+    "lastname": "Surname 6",
+    "point": 0.0,
+    "complatedTaskIds": []
+  },
+  {
+    "id": 7,
+    "name": "Name 7",
+    "lastname": "Surname 7",
+    "point": 0.0,
+    "complatedTaskIds": []
+  },
+  {
+    "id": 8,
+    "name": "Name 8",
+    "lastname": "Surname 8",
+    "point": 0.0,
+    "complatedTaskIds": []
+  },
+  {
+    "id": 9,
+    "name": "Name 9",
+    "lastname": "Surname 9",
+    "point": 0.0,
+    "complatedTaskIds": []
+  },
+  {
+    "id": 10,
+    "name": "Name 10",
+    "lastname": "Surname 10",
+    "point": 0.0,
+    "complatedTaskIds": []
+  }
+]
