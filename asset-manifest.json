@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f410431.chunk.css",
-    "main.js": "/static/js/main.258dcedd.chunk.js",
-    "main.js.map": "/static/js/main.258dcedd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fce7cc94.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fce7cc94.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.0c7b591e.chunk.js": "/static/js/2.0c7b591e.chunk.js",
-    "static/js/2.0c7b591e.chunk.js.map": "/static/js/2.0c7b591e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c09babc21d86e0496d15d49301b44de4.js": "/precache-manifest.c09babc21d86e0496d15d49301b44de4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.0f410431.chunk.css.map": "/static/css/main.0f410431.chunk.css.map",
-    "static/js/2.0c7b591e.chunk.js.LICENSE.txt": "/static/js/2.0c7b591e.chunk.js.LICENSE.txt"
+    "main.css": "/Interviwwer/static/css/main.0f410431.chunk.css",
+    "main.js": "/Interviwwer/static/js/main.046ca54e.chunk.js",
+    "main.js.map": "/Interviwwer/static/js/main.046ca54e.chunk.js.map",
+    "runtime-main.js": "/Interviwwer/static/js/runtime-main.f5813dc2.js",
+    "runtime-main.js.map": "/Interviwwer/static/js/runtime-main.f5813dc2.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Interviwwer/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.0c7b591e.chunk.js": "/Interviwwer/static/js/2.0c7b591e.chunk.js",
+    "static/js/2.0c7b591e.chunk.js.map": "/Interviwwer/static/js/2.0c7b591e.chunk.js.map",
+    "index.html": "/Interviwwer/index.html",
+    "precache-manifest.b2e361ce22559e676f006e8ff516381a.js": "/Interviwwer/precache-manifest.b2e361ce22559e676f006e8ff516381a.js",
+    "service-worker.js": "/Interviwwer/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Interviwwer/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.0f410431.chunk.css.map": "/Interviwwer/static/css/main.0f410431.chunk.css.map",
+    "static/js/2.0c7b591e.chunk.js.LICENSE.txt": "/Interviwwer/static/js/2.0c7b591e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fce7cc94.js",
+    "static/js/runtime-main.f5813dc2.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.0c7b591e.chunk.js",
     "static/css/main.0f410431.chunk.css",
-    "static/js/main.258dcedd.chunk.js"
+    "static/js/main.046ca54e.chunk.js"
   ]
 }
